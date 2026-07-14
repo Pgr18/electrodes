@@ -1,0 +1,3 @@
+[submodule "ECAD_libs"]
+	path = ECAD_libs
+	url = git@github.com:Pgr18/ECAD_libs.git
