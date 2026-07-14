@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "my_lib") (type "KiCad") (uri "${KIPRJMOD}/../ECAD_libs/ECAD_lib.pretty") (options "") (descr ""))
+)
